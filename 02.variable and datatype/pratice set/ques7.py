@@ -1,0 +1,1 @@
+print("hello \"python\" world \n this is a new line \n this is a tab = \t after tab")
